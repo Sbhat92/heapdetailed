@@ -1,7 +1,7 @@
 # heapdetailed
+![license](https://img.shields.io/badge/license-MIT-blue)
 
-License: ![license](https://img.shields.io/badge/license-MIT-blue)
-Issues: ![issues](https://img.shields.io/github/issues/Sbhat92/heapdetailed)
+![issues](https://img.shields.io/github/issues/Sbhat92/heapdetailed)
 # overview
 
 Currently, heapq is the most popular library to implement a priority queue. It abstracts all operations of a min-heap from the user and does not require the user to understand the inner workings of a heap. 
